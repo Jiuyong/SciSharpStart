@@ -1,0 +1,9 @@
+[submodule "NumSharp"]
+	path = NumSharp
+	url = https://github.com/SciSharp/NumSharp.git
+[submodule "SharpCV"]
+	path = SharpCV
+	url = https://github.com/SciSharp/SharpCV.git
+[submodule "TensorFlow.NET"]
+	path = TensorFlow.NET
+	url = https://github.com/SciSharp/TensorFlow.NET.git
